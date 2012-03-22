@@ -1,3 +1,5 @@
+![](https://github.com/jmoeller/game-journalism/raw/master/simcityofcph.png)
+
 Maxis and the municipality of Copenhagen, Denmark, join forces with city planning using Sim City
 ================================================================================================
 
@@ -30,6 +32,8 @@ future will be responsible for all counceling and guidance with regards to the d
 
 If the project proves succesful, it will be expanded to encompass all major Danish cities within the next couple of
 years.
+
+To view the video that made the municipality get the idea, visit the Sim City YouTube channel at <http://youtu.be/vS0qURl_JJY?hd=1>.
 
 ---
 
