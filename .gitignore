@@ -1,0 +1,4 @@
+feedback/
+*.html
+*.zip
+.DS_Store
