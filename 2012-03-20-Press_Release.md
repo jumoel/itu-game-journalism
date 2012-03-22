@@ -26,9 +26,11 @@ be used in the decision making process in an *actually* city, is a great accompl
 have been partying around the clock because of their accomplishment," said John Riccitiello, CEO of Electronic Arts.
 "Our marketing department is drafting new campaigns as we speak, touting the accomplishment."
 
-The work to close down several of the departments in the offices of the municipality will formally begin in April,
-but select workers have already been laid off. Their replacements will be Sim City afficionados, who in the
-future will be responsible for all counceling and guidance with regards to the development of Copenhagen.
+The work to reduce the spending and close down several of the departments in the offices of the municipality will
+formally begin in April, but select high payed workers have already been laid off. Their replacements will be Sim
+City afficionados, who in will be responsible for all counceling and guidance with regards to the future development
+of Copenhagen. The use of Sim City will allow the municipality to view city planning in a new light, and will help
+bring Copenhagen into the top tier of the metropolises of the world.
 
 If the project proves succesful, it will be expanded to encompass all major Danish cities within the next couple of
 years.
@@ -41,7 +43,7 @@ To view the video that made the municipality get the idea, visit the Sim City Yo
 The Copenhagen Municipality is the largest of the municipalities making up the city of Copenhagen. It covers 91.3 square
 kilometers and has a population of 549,050. It is the capital of Denmark and also houses the Danish government.
 
-**ABOUT MAXIS, INC:**  
+**ABOUT MAXIS:**  
 Maxis is a subsidiary of major game developer and publisher Electronic Arts. Maxis is the creator of one of the
 best-selling computer games of all times, *The Sims*. It also developed the original *Sim City* games, other sim
 games such as *SimAnt*, as well as other games like *3D Pinball for Windows*. It also created the evolution-based
